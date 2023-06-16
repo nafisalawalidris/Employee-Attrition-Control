@@ -48,7 +48,7 @@
   <p>To use this project, follow these steps:</p>
   <ol>
     <li>Ensure the availability of the "Existing employees" and "Employees who have left" datasets.</li>
-    <li>Execute the analytics techniques described in the project, such as data analysis, predictive modeling, and generating insights.</li>
+    <li>Execute the analytics techniques described in the project, such as data analysis, predictive modeling and generating insights.</li>
     <li>Apply the recommendations provided to control employee attrition based on the project's findings.</li>
   </ol>
 
